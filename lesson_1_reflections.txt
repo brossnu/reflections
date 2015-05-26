@@ -1,0 +1,36 @@
+	"diff" 
+
+"diff" allowed me to see, via "+" and "-" the difference between 2 files
+both new and old code were placed on top of each other
+this made it easy to compare and contrast
+
+	easy access to entire history of file
+	makes me a more efficient programmer long term
+
+allows me to see changes in progressions
+allows me to revert to perhaps a better coding method
+cut and paste more efficient code into lastest version
+track progress and time spent
+
+	Manual Commits vs. Automatic (google docs)
+pros
+	when is chosen by me
+	logical changes selected by me
+	easy grouping of changes
+cons
+	potential to have forget to save "why" change made
+	too long a time between changes
+
+	Multi-File Commits
+some files are related to one other
+allows you to see changes using git log --stat
+treating each file seperately works but hard to sort 
+	and see how changes affect mult files
+
+	Confidence in making changes
+Can revert to a previous commit to find bugs
+This allows a "back-up" copy so I don't worry about 
+	breaking something
+
+	Want to try to use Git for
+Saving versions of my new code!
